@@ -1,0 +1,22 @@
+{
+    "@context": {
+        "url": {
+            "@id": "https://schema.org/URL",
+            "@type": "@id"
+        },
+        "imageUrl": {
+            "@id": "https://schema.org/URL",
+            "@type": "@id"
+        },
+        "issuerImageUrl": {
+            "@id": "https://schema.org/URL",
+            "@type": "@id"
+        },
+        "description": "https://schema.org/description",
+        "name": "https://schema.org/givenName",
+        "resources": "https://schema.org/AlignmentObject",
+        "results": "https://schema.org/additionalProperty",
+        "value": "https://schema.org/value",
+        "additionalData": "https://schema.org/additionalProperty"
+    }
+}
